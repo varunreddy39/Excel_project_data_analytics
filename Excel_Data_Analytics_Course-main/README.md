@@ -1,28 +1,4 @@
-# 📊 Excel for Data Analytics - Full Course
 
-Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
-
-[![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
-
-## ⚠️ Downloading Excel Files
-
-**Known issue:** If you download individual `.xlsx` files from GitHub, they can become corrupted and won't open in Excel.
-
-**Workarounds:**
-1. **Download the whole repo** — click **Code** → **Download ZIP** at the top of this page.
-2. **Use Google Drive instead** 👉 [https://lukeb.co/excel_files_alternate](https://lukeb.co/excel_files_alternate)
-
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
-
-## Table of Contents
-
-### [Course Problem Workbooks](/0_Resources/Problems/)
-
-- The Workbooks to solve practice problems
-    - [Purchase the problems here](https://lukebarousse.com/excel)
 
 ### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
 - Worksheets
@@ -71,8 +47,3 @@ Data Nerds! This repo contains all the Excel files needed to follow along my fre
 - Power Pivot DAX
 - Power Pivot Data Models
 
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
